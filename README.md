@@ -1,1 +1,1 @@
-# Practice-for-EGE
+# EGE Algorithms
