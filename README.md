@@ -23,7 +23,7 @@ pip install requirements.txt
         * Algorithm Example
         * Algorithm      
 
-## 📌 Useful links
+## 📌 Useful Links
   - [Shkolkovo platform](https://3.shkolkovo.online/ege/inf)
   - [Informatik BU chanel](https://www.youtube.com/@infbu)
   - [Konstantin Polyakov's website](https://kpolyakov.spb.ru/)
