@@ -1,5 +1,5 @@
 # EGE Algorithms
-In this repository you can find useful theory and algorithms for solving EGE problems in Computer Science
+In this repository you can find theory, solution algorithms and useful links for solving EGE problems in Computer Science
 
 ## 🛠️ Tech Stack
 ㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
